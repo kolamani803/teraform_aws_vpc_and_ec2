@@ -1,0 +1,7 @@
+aws_access_key = "*********************"
+aws_secret_key = "*****************************************"
+instance_type  = "t2.micro"
+vpc_name       = "MyCustomVPC"
+vpc_cidr       = "10.0.0.0/16"
+subnet_name    = "MyPublicSubnet"
+subnet_cidr    = "10.0.1.0/24"
